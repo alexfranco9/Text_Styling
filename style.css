@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.h1secondword {
+    color: #44FEFF;
+}
+
+h2 {
+    background-color: rebeccapurple;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+    text-align: center;
+    font-size: 30px;
+}
+
+h3 {
+    background-color: #9FC5F8;
+    text-decoration: underline;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+}
